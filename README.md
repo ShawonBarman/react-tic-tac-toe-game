@@ -2,6 +2,8 @@
 
 A simple, interactive, and responsive Tic-Tac-Toe game built using React. This application allows two players to play the game, change their names, and keep track of turns. It includes features like win and draw detection, as well as a game log.
 
+## Live: https://react-tic-tac-toe-game-app.netlify.app/
+
 ## Features
 
 - **Player Customization**: Players can change their names (Player 1 and Player 2).
